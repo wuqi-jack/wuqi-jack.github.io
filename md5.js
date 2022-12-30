@@ -17,12 +17,12 @@
     "http://youdian.jindianle.com/others/scheme/index.html",
     "https://kt.59itou.com/others/scheme/index.html",
     "http://kt.59itou.com/others/scheme/index.html",
-    "https://update-0001.jindianle.com/hot_code_com.itou.sim.client_dist/koudai",
-    "http://update-0001.jindianle.com/hot_code_com.itou.sim.client_dist/koudai",
+    "https://h5.sim.51yueqian.net",
+    "http://h5.sim.51yueqian.net",
     "https://update-0001.51itou.com/hot_code_com.itou.sim.client_dist/koudai",
     "http://update-0001.51itou.com/hot_code_com.itou.sim.client_dist/koudai",
-    "https://update-0001.jindianle.com/hot_code_com.itou.sim.client_dist/koudai",
-    "http://update-0001.jindianle.com/hot_code_com.itou.sim.client_dist/koudai",
+    "https://h5.sim.51yueqian.net",
+    "http://h5.sim.51yueqian.net",
     "https://kt.59itou.com/hot_code_com.itou.sim.client_dist/koudai",
     "http://kt.59itou.com/hot_code_com.itou.sim.client_dist/koudai",
     "https://engine.qazxsdc.com/index/activity",
@@ -37,9 +37,7 @@
     "http://b.jiedianhong.com",
     "http://m.jiedianhong.com",
     "https://www.honghuoshop.com/",
-    "http://www.honghuoshop.com/",
-    "https://koudai.17itou.com",
-    "http://koudai.17itou.com"
+    "http://www.honghuoshop.com/"
   ],
   "androidThirdPartUrlPrefix": [
     "https://cash.yeepay.com",
@@ -58,8 +56,8 @@
     "https://kt.59itou.com/others/scheme/index.html",
     "http://kt.59itou.com/others/scheme/index.html",
     "http://youdian.jindianle.com/others/scheme/index.html",
-    "https://update-0001.jindianle.com/hot_code_com.itou.sim.client_dist/koudai",
-    "http://update-0001.jindianle.com/hot_code_com.itou.sim.client_dist/koudai",
+    "https://h5.sim.51yueqian.net",
+    "http://h5.sim.51yueqian.net",
     "https://update-0001.51itou.com/hot_code_com.itou.sim.client_dist/koudai",
     "http://update-0001.51itou.com/hot_code_com.itou.sim.client_dist/koudai",
     "https://youliao.honghuoshop.com/",
@@ -70,9 +68,7 @@
     "http://b.jiedianhong.com",
     "http://m.jiedianhong.com",
     "https://www.honghuoshop.com/",
-    "http://www.honghuoshop.com/",
-    "https://koudai.17itou.com",
-    "http://koudai.17itou.com"
+    "http://www.honghuoshop.com/"
   ],
   "schemeLaunchUrl": [
     "weixin://",
